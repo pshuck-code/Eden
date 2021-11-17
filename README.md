@@ -6,5 +6,6 @@ The purpose of this application is to provide a platform for individuals to mana
 
 Eden is written mainly in Swift and partly in Objective C. Eden also uses Google Firebase to store and retrieve data. 
 
-Xcode is the platform used for development.
+Cocoa Pods was used to install Podfiles. 
 
+Xcode is the platform used for development.
